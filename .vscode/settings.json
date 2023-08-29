@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "MAP_ADT.C": "cpp"
+        "MAP_ADT.C": "cpp",
+        "PUSH.C": "cpp"
     }
 }
