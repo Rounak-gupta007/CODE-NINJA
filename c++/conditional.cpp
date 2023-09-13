@@ -8,4 +8,4 @@ int main()
     (a>b)?cout<<"a is greater.\n":cout<<"b is greater.\n";
 
     return 0;
-}
+}6
